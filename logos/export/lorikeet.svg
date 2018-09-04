@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="646px" height="156px" viewBox="0 0 646 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFF500" offset="0%"></stop>
+            <stop stop-color="#FFCA17" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFA730" offset="0%"></stop>
+            <stop stop-color="#FF6A3C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FF6513" offset="0%"></stop>
+            <stop stop-color="#F43FF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="94.0073103%" x2="50%" y2="9.92773479%" id="linearGradient-4">
+            <stop stop-color="#438EFF" offset="0%"></stop>
+            <stop stop-color="#6ACCFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#3FFB55" offset="0%"></stop>
+            <stop stop-color="#BBF93F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(-71.000000, -60.000000)">
+            <g id="Group-Copy-3" transform="translate(71.000000, 55.000000)" opacity="0.9">
+                <path d="M70.9505703,72 C59.6501901,89.4863302 54,109.054731 54,130.705204 C54,156.721398 59.6501901,184.819664 70.9505703,215 C82.9835234,184.984413 89,157.081074 89,131.289984 C89,109.414407 82.9835234,89.6510796 70.9505703,72 Z" id="original_Path-2_67779265" fill="url(#linearGradient-1)" style="mix-blend-mode: overlay;" transform="translate(71.500000, 143.500000) rotate(-90.000000) translate(-71.500000, -143.500000) "></path>
+                <path d="M75.9505703,48 C64.6501901,65.4863302 59,85.0547314 59,106.705204 C59,132.721398 64.6501901,160.819664 75.9505703,191 C87.9835234,160.984413 94,133.081074 94,107.289984 C94,85.4144074 87.9835234,65.6510796 75.9505703,48 Z" id="original_Path-2_67779265-Copy" fill="url(#linearGradient-2)" transform="translate(76.500000, 119.500000) rotate(-70.000000) translate(-76.500000, -119.500000) "></path>
+                <path d="M86.9505703,28 C75.6501901,45.4863302 70,65.0547314 70,86.7052036 C70,112.721398 75.6501901,140.819664 86.9505703,171 C98.9835234,140.984413 105,113.081074 105,87.2899835 C105,65.4144074 98.9835234,45.6510796 86.9505703,28 Z" id="original_Path-2_67779265-Copy-2" fill="url(#linearGradient-3)" transform="translate(87.500000, 99.500000) rotate(-51.000000) translate(-87.500000, -99.500000) "></path>
+                <path d="M104.95057,12 C93.6501901,29.4863302 88,49.0547314 88,70.7052036 C88,96.7213981 93.6501901,124.819664 104.95057,155 C116.983523,124.984413 123,97.0810741 123,71.2899835 C123,49.4144074 116.983523,29.6510796 104.95057,12 Z" id="original_Path-2_67779265-Copy-3" fill="url(#linearGradient-4)" transform="translate(105.500000, 83.500000) rotate(-32.000000) translate(-105.500000, -83.500000) "></path>
+                <path d="M124.95057,3 C113.65019,20.4863302 108,40.0547314 108,61.7052036 C108,87.7213981 113.65019,115.819664 124.95057,146 C136.983523,115.984413 143,88.0810741 143,62.2899835 C143,40.4144074 136.983523,20.6510796 124.95057,3 Z" id="original_Path-2_67779265-Copy-4" fill="url(#linearGradient-5)" transform="translate(125.500000, 74.500000) rotate(-14.000000) translate(-125.500000, -74.500000) "></path>
+            </g>
+            <text id="Lorikeet" font-family="Overpass-Bold, Overpass" font-size="120" font-weight="bold" fill="#1D1D1D">
+                <tspan x="258" y="205">Lorikeet</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
