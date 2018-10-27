@@ -36,3 +36,15 @@ Incorrect:
 > Submit Deposit
 
 > Apps in Development
+
+### Colon (“:”) in form labels
+
+Do not use a colon at the end of form labels.
+
+Correct:
+
+> Name
+
+Incorrect:
+
+> Name:
