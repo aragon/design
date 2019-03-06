@@ -3,7 +3,7 @@
 
 This repository contains source files for the following Aragon designs
 
-- **Aragon Web App**: The main Aragon client web app designs. [Sketch source file](sketch/aragon-web-app.sketch) [Invision link](https://invis.io/DVO2DVY2WSJ)
+- **Aragon Web App**: The main Aragon client web app designs. [Sketch source file](sketch/aragon-web-app.sketch) - this is being replaced by Figma - https://www.figma.com/file/GRA6fHSOf4vKzaoNPK2hFicR/aragon-web-app 
 - **Aragon.org website**: Design for the http://aragon.org. [Sketch source file](sketch/aragon-web.sketch)
 - **Design guidelines for Aragon apps**:
 - **Logos**: Aragon related logos (Main and sub-brands, developer products) [Source files](logos/source) [Exports](logos/export)
